@@ -18,4 +18,9 @@ This project allows users to upload complex PDFs and ask specific questions abou
 
 ## 📸 Sample Output
 > **Question:** Summarize the main points of this document.
-> **Answer:** [Paste a high-quality response you got from your code here!]
+> **Answer:** --- ANSWER ---
+Here's a 3-bullet point summary of the PDF:
+
+* Candidates are expected to follow strict rules and regulations during the examination, including using only blue or black ink, not borrowing any articles, and maintaining silence in the examination hall.
+* Candidates must ensure that their answer books are completed correctly, including writing their register number, name, course, and date of the examination in the correct space, and not tearing any pages out of the answer book.
+* Candidates who engage in any form of misconduct, including cheating, using unfair means, or failing to follow the rules, will be liable for disciplinary action, which may include cancellation of the examination or rejection of the answer book.
